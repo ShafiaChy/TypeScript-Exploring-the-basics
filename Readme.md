@@ -13,3 +13,12 @@
 11. Takes less time in testing as bugs are easy to find and also few bugs will be available
 12. Type complexities like a small code will also needs it types to be mentioned
 13. Limited Library Support, Over Engineering and Migration Challenges
+14. NVM means node version manager
+
+---
+
+## Day 2
+
+1. To allow node to run TypeScript you need the TypeScript compiler to compile the code into JavaScript
+2. Write tsc filename.ts
+3.
