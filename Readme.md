@@ -21,4 +21,6 @@
 
 1. To allow node to run TypeScript you need the TypeScript compiler to compile the code into JavaScript
 2. Write tsc filename.ts
-3.
+3. You won't ge typescript types on runtime because the code will be compiled to JavaScript
+4. With TypeScript types we get help for not making mistakes
+5. Tuple is kind of like an array where the order of type of value can be defined
