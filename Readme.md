@@ -26,3 +26,4 @@
 5. Tuple is kind of like an array where the order of type of value can be defined
 6. To keep a value fixed,the value needs to be used as a type. This is called literal. With ? means the object property may exist.
 7. With readonly, you cannot overrride an object property.
+8. Functions in objects are called methods
