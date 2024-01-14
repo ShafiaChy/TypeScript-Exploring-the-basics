@@ -27,3 +27,9 @@
 6. To keep a value fixed,the value needs to be used as a type. This is called literal. With ? means the object property may exist.
 7. With readonly, you cannot overrride an object property.
 8. Functions in objects are called methods
+
+---
+
+## Day 3
+
+1. TypeScript globally access all the variables so if you write same variable name in another file it will show error. To avoid that, write all the code in `{}`
